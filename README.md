@@ -37,4 +37,4 @@
 > Data wrangling indeed is a core skill that everyone who works with data should be familiar with since so much of the world's data isn't clean. If we analyze, visualize, or model our data before we wrangle it, our consequences could be making mistakes, missing out on cool insights, and wasting time. Therefore, dat wrangling is unavoidable.
 
 **Gaps**
-> I faced many challenges in my Data wrangling process. I had a hard time in signing up my twitter developer account Sometimes got differnt results in my gathering process against my expectations
+> I faced many challenges in my Data wrangling process. I had a hard time in signing up my twitter developer account Sometimes got different results in my gathering process against my expectations
