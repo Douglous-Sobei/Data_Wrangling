@@ -4,7 +4,7 @@
 > Data wrangling is an important skill that people working with data have to aquire since the world's data isn't clean. To make our data clean, wrangling is essential. In any case we analyze, visualize, or model our data before wrangling, the outcome could be making mistakes. Therefore, wrangling is the best practice to reach our expections.
 
 **Gathering summary**
->This was the first step in the data wrangling process. I was able obtain data from the following sources:
+>This was the first step in the data wrangling process. I was able to obtain data from the following sources:
 - Got data from an existing file (twitter-archive-enhanced.csv) Reading from csv file using pandas
 - Downloaded a file from the internet (image-predictions.tsv) Downloading file using requests
 - Did a query of an API (tweet_json.txt) to get JSON object of all the tweet_ids using Tweepy
